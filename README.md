@@ -40,5 +40,4 @@ It simulates a drinks shop website with multiple pages — including an About pa
 
 ---
 **URL**
-
-	https://www.doc.gold.ac.uk/usr/133/
+https://www.doc.gold.ac.uk/usr/133/
