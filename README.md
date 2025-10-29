@@ -33,10 +33,10 @@ It simulates a drinks shop website with multiple pages — including an About pa
 
 ## How It Works
 
-	•	Express serves EJS templates dynamically from the /views folder.
-	•	Static files like style.css are served from /public.
-	•	Each page (home, about, register, etc.) has its own route defined in routes/main.js.
-	•	Form submissions use either GET or POST depending on their purpose (e.g. /survey_submitted).
+- Express serves EJS templates dynamically from the /views folder.
+- Static files like style.css are served from /public.
+- Each page (home, about, register, etc.) has its own route defined in routes/main.js.
+- Form submissions use either GET or POST depending on their purpose (e.g. /survey_submitted).
 
 ---
 **URL**
