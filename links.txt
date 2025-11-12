@@ -1,5 +1,2 @@
-https://www.doc.gold.ac.uk/usr/133/
-https://www.doc.gold.ac.uk/usr/133/about
-https://www.doc.gold.ac.uk/usr/133/search
-https://www.doc.gold.ac.uk/usr/133/register
-https://www.doc.gold.ac.uk/usr/133/survey
+home=https://www.doc.gold.ac.uk/usr/133/
+
